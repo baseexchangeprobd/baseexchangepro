@@ -1,0 +1,22 @@
+{
+  "name": "baseexchangepro",
+  "version": "1.1.0",
+  "private": true,
+  "description": "baseexchangepro — Swap, Limit, Pool and Trade on Base, powered by 0x + Aerodrome.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "viem": "^2.21.0",
+    "lightweight-charts": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}
